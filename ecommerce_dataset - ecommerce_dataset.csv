@@ -1,0 +1,507 @@
+order_id,product,category,price,quantity,payment_method,date,total,Month,Discount,City Code,Order Priority Code,Latitude,Longtitude
+1,Watch,Electronics,12652.3,4,Easypaisa,01/01/2023,50609.2,January,0,1,2,1,0
+2,Bag,Fashion,20053.64,2,Credit Card,02/01/2023,40107.28,January,0.1,1,2,1,0
+3,Shoes,Fashion,13274.17,2,JazzCash,03/01/2023,26548.34,January,0.1,1,2,1,0
+4,Bag,Electronics,15332.08,1,COD,04/01/2023,15332.08,January,0.1,1,2,1,0
+5,Bag,Accessories,23165.07,1,Debit Card,05/01/2023,23165.07,January,0,1,,1,0
+6,Laptop,Fashion,14283.2,4,JazzCash,06/01/2023,57132.8,January,0.1,1,2,1,0
+7,Shoes,Fashion,71792.85,3,JazzCash,07/01/2023,215378.55,January,0,1,2,1,0
+8,Shoes,Fashion,6878.58,2,Debit Card,08/01/2023,13757.16,January,0,,2,1,0
+9,Shoes,Electronics,42198.66,2,JazzCash,09/01/2023,84397.32,January,0,1,2,1,0
+10,Bag,Fashion,33126.55,1,COD,10/01/2023,33126.55,January,0.2,1,2,1,0
+11,Watch,Accessories,78599.1,2,COD,11/01/2023,157198.2,January,0,1,2,1,0
+12,Shoes,Fashion,9407.09,3,Debit Card,12/01/2023,28221.27,January,0,1,2,1,0
+13,Headphones,Fashion,32129.52,1,Easypaisa,13/01/2023,32129.52,January,0,1,2,1,0
+14,Bag,Accessories,77572.9,1,Credit Card,14/01/2023,77572.9,January,0,1,2,1,0
+15,Laptop,Fashion,69307.82,1,Easypaisa,15/01/2023,69307.82,January,0,1,2,1,0
+16,Watch,Electronics,65457.23,4,JazzCash,16/01/2023,261828.92,January,0.1,1,2,1,0
+17,Headphones,Electronics,21003.27,3,Credit Card,17/01/2023,63009.81,January,0.2,1,2,1,0
+18,Headphones,Electronics,14085.56,2,Debit Card,18/01/2023,28171.12,January,0,1,2,1,0
+19,Laptop,Accessories,53657.14,4,Debit Card,19/01/2023,214628.56,January,0.1,1,2,1,0
+20,Watch,Fashion,74385.39,4,Credit Card,20/01/2023,297541.56,January,0,1,2,1,0
+21,Bag,Electronics,44762.65,4,COD,21/01/2023,179050.6,January,0,1,2,1,1
+22,Mobile,Accessories,45943.21,1,Credit Card,22/01/2023,45943.21,January,0,1,2,1,1
+23,Watch,Fashion,22758.34,3,JazzCash,23/01/2023,68275.02,January,0,1,2,1,1
+24,Laptop,Accessories,61674.69,4,COD,24/01/2023,246698.76,January,0,1,2,1,1
+25,Headphones,Electronics,15369.98,2,Debit Card,25/01/2023,30739.96,January,0,2,2,1,1
+26,Bag,Electronics,26232.5,3,Credit Card,26/01/2023,78697.5,January,0.2,2,,1,1
+27,Watch,Electronics,34322.2,2,Easypaisa,27/01/2023,68644.4,January,0,,2,1,1
+28,Mobile,Accessories,40855.03,3,Easypaisa,28/01/2023,122565.09,January,0.1,2,2,1,1
+29,Mobile,Accessories,19771.57,2,JazzCash,29/01/2023,39543.14,January,0,2,2,1,1
+30,Shoes,Electronics,9629.53,1,Easypaisa,30/01/2023,9629.53,January,0,2,2,1,1
+31,Shoes,Accessories,49044.29,4,Credit Card,31/01/2023,196177.16,January,0.2,2,2,1,1
+32,Laptop,Electronics,23446.13,2,Credit Card,01/02/2023,46892.26,February,0.15,2,2,1,1
+33,Watch,Electronics,46708.44,3,Easypaisa,02/02/2023,140125.32,February,0.2,2,0,1,1
+34,Watch,Fashion,12771.84,4,Credit Card,03/02/2023,51087.36,February,0.1,2,0,1,1
+35,Headphones,Accessories,38750.64,4,JazzCash,04/02/2023,155002.56,February,0,2,0,1,1
+36,Headphones,Electronics,42840.86,3,COD,05/02/2023,128522.58,February,0,2,0,1,1
+37,Headphones,Electronics,4619.97,2,JazzCash,06/02/2023,9239.94,February,0.2,2,0,1,-9.1
+38,Shoes,Accessories,27260.04,1,JazzCash,07/02/2023,27260.04,February,0,2,0,1,-9.1
+39,Watch,Fashion,11185.97,1,Credit Card,08/02/2023,11185.97,February,0,2,0,1,-9.1
+40,Watch,Fashion,5538.31,2,COD,09/02/2023,11076.62,February,0.1,2,0,1,-9.1
+41,Mobile,Electronics,79201.84,4,Credit Card,10/02/2023,316807.36,February,0.17,2,0,1,-9.1
+42,Shoes,Accessories,26127.13,4,Debit Card,11/02/2023,104508.52,February,0,2,0,1,-9.1
+43,Bag,Fashion,64885.02,4,Credit Card,12/02/2023,259540.08,February,0,2,0,1,-9.1
+44,Shoes,Accessories,20743.93,4,Credit Card,13/02/2023,82975.72,February,0,2,0,1,-9.1
+45,Bag,Accessories,54679.47,2,Credit Card,14/02/2023,109358.94,February,0.2,2,0,1,-9.1
+46,Mobile,Electronics,60938.11,4,COD,15/02/2023,243752.44,February,0,2,0,1,-9.1
+47,Laptop,Fashion,47853.28,3,Credit Card,16/02/2023,143559.84,February,0.1,2,0,1,-9.1
+48,Watch,Electronics,37990.31,4,COD,17/02/2023,151961.24,February,0.15,2,,1,-9.1
+49,Mobile,Fashion,33241.35,1,Easypaisa,18/02/2023,33241.35,February,0.17,2,0,1,-9.1
+50,Watch,Fashion,28235.03,4,Debit Card,19/02/2023,112940.12,February,0.15,2,0,1,-9.1
+51,Headphones,Fashion,74397.57,2,COD,20/02/2023,148795.14,February,0.17,2,0,1,-9.1
+52,Laptop,Fashion,66534.24,1,Easypaisa,21/02/2023,66534.24,February,0.15,2,0,1,-9.1
+53,Laptop,Fashion,77219.64,2,COD,22/02/2023,154439.28,February,0.15,2,0,1,-9.1
+54,Mobile,Accessories,10381.63,2,COD,23/02/2023,20763.26,February,0.15,2,0,1,-9.1
+55,Laptop,Electronics,58603.96,1,Debit Card,24/02/2023,58603.96,February,0.15,2,0,1,-9.1
+56,Bag,Accessories,75098.07,2,JazzCash,25/02/2023,150196.14,February,0.17,2,0,1,-9.1
+57,Laptop,Fashion,14908.03,2,JazzCash,26/02/2023,29816.06,February,0.17,2,0,1,-9.1
+58,Watch,Electronics,5786.45,4,COD,27/02/2023,23145.8,February,0.17,2,0,1,-9.1
+59,Watch,Fashion,59419.09,3,Credit Card,28/02/2023,178257.27,February,0.17,6,0,1,-9.1
+60,Watch,Electronics,46170.61,2,Easypaisa,01/03/2023,92341.22,March,0.15,6,0,1,-9.1
+61,Watch,Accessories,67425.39,2,Credit Card,02/03/2023,134850.78,March,0.35,6,0,1,-9.1
+62,Bag,Electronics,11611.9,2,Credit Card,03/03/2023,23223.8,March,0.15,6,0,1,-9.1
+63,Shoes,Electronics,63723.75,4,COD,04/03/2023,254895,March,0.17,6,0,1,-9.1
+64,Headphones,Electronics,16529.37,3,COD,05/03/2023,49588.11,March,0.15,6,0,1,-9.1
+65,Mobile,Electronics,13510.65,1,COD,06/03/2023,13510.65,March,0.15,,0,1,-9.1
+66,Watch,Electronics,13559.13,4,COD,07/03/2023,54236.52,March,0.15,6,0,1,-9.1
+67,Laptop,Fashion,65258.69,4,JazzCash,08/03/2023,261034.76,March,0.15,6,0,1,-9.1
+68,Watch,Electronics,53383.18,3,COD,09/03/2023,160149.54,March,0.17,6,0,1,-9.1
+69,Laptop,Electronics,42083.7,3,JazzCash,10/03/2023,126251.1,March,0.17,6,0,1,-9.1
+70,Headphones,Accessories,29027.02,1,JazzCash,11/03/2023,29027.02,March,0.17,6,0,1,-9.1
+71,Headphones,Electronics,70237.44,1,COD,12/03/2023,70237.44,March,0.17,6,3,1,-9.1
+72,Headphones,Accessories,31699.39,4,Debit Card,13/03/2023,126797.56,March,0.15,6,3,1,-9.1
+73,Laptop,Fashion,65419.66,3,Easypaisa,14/03/2023,196258.98,March,0.35,6,3,1,0
+74,Watch,Electronics,35411.23,1,Credit Card,15/03/2023,35411.23,March,0.15,6,3,1,0
+75,Headphones,Accessories,30467.08,3,JazzCash,16/03/2023,91401.24,March,0.15,6,3,1,0
+76,Bag,Accessories,37283.04,1,Easypaisa,17/03/2023,37283.04,March,0.17,6,3,1,0
+77,Laptop,Fashion,24459.54,2,Debit Card,18/03/2023,48919.08,March,0.17,6,3,1,0
+78,Laptop,Electronics,59934.95,3,Credit Card,19/03/2023,179804.85,March,0.15,6,,1,0
+79,Watch,Electronics,40466.27,3,Credit Card,20/03/2023,121398.81,March,0.35,6,3,1,0
+80,Laptop,Accessories,18960.91,4,JazzCash,21/03/2023,75843.64,March,0.35,6,3,1,0
+81,Laptop,Electronics,72016.18,3,COD,22/03/2023,216048.54,March,0.15,2,3,1,0
+82,Headphones,Accessories,31019.35,3,Debit Card,23/03/2023,93058.05,March,0.17,2,3,1,0
+83,Watch,Electronics,43712.45,2,JazzCash,24/03/2023,87424.9,March,0.17,2,3,1,0
+84,Headphones,Accessories,72564.53,3,Debit Card,25/03/2023,217693.59,March,0.17,2,3,1,0
+85,Headphones,Electronics,50126.92,2,COD,26/03/2023,100253.84,March,0.35,2,3,-0.21,0
+86,Watch,Fashion,9793.39,2,COD,27/03/2023,19586.78,March,0.15,2,3,-0.21,0
+87,Mobile,Electronics,75216.65,2,JazzCash,28/03/2023,150433.3,March,0.17,2,3,-0.21,0
+88,Headphones,Electronics,50402.79,2,COD,29/03/2023,100805.58,March,0.15,2,3,-0.21,0
+89,Bag,Fashion,27125,1,Easypaisa,30/03/2023,27125,March,0.15,2,3,-0.21,0
+90,Bag,Electronics,11572.13,4,Credit Card,31/03/2023,46288.52,March,0.17,2,3,-0.21,0
+91,Laptop,Fashion,12323,1,JazzCash,01/04/2023,12323,April,0.15,2,3,-0.21,0
+92,Bag,Electronics,49795.78,3,Debit Card,02/04/2023,149387.34,April,0.15,2,3,-0.21,0
+93,Laptop,Accessories,42910.16,1,Easypaisa,03/04/2023,42910.16,April,0.15,2,3,-0.21,0
+94,Mobile,Accessories,71564.46,1,JazzCash,04/04/2023,71564.46,April,0.15,2,3,-0.21,0
+95,Watch,Electronics,63193.48,3,COD,05/04/2023,189580.44,April,0.15,2,1,-0.21,0
+96,Watch,Electronics,12558.15,3,COD,06/04/2023,37674.45,April,0.15,2,1,-0.21,0
+97,Watch,Electronics,25281.9,3,COD,07/04/2023,75845.7,April,0.15,2,1,-0.21,0
+98,Bag,Accessories,20254.89,1,COD,08/04/2023,20254.89,April,0.35,2,1,-0.21,0
+99,Mobile,Electronics,59643.73,1,Debit Card,09/04/2023,59643.73,April,0.35,2,1,1,0
+100,Bag,Accessories,3165.83,3,Easypaisa,10/04/2023,9497.49,April,0.15,2,1,1,0
+101,Bag,Fashion,45806.23,4,Credit Card,11/04/2023,183224.92,April,0.15,,1,1,0
+102,Mobile,Accessories,61115.47,4,Debit Card,12/04/2023,244461.88,April,0.17,1,1,1,0
+103,Mobile,Accessories,4572,2,Debit Card,13/04/2023,9144,April,0.17,1,1,1,0
+104,Mobile,Fashion,27695.5,3,Credit Card,14/04/2023,83086.5,April,0.15,1,1,1,0
+105,Mobile,Accessories,65789.96,2,Credit Card,15/04/2023,131579.92,April,0.35,1,1,1,0
+106,Watch,Electronics,9295.22,4,COD,16/04/2023,37180.88,April,0.17,1,1,1,0
+107,Shoes,Electronics,67792.96,2,Debit Card,17/04/2023,135585.92,April,0.15,1,1,1,0
+108,Shoes,Accessories,10635.35,3,JazzCash,18/04/2023,31906.05,April,0.17,1,1,1,0
+109,Mobile,Electronics,32084.34,3,Credit Card,19/04/2023,96253.02,April,0.17,1,1,1,0
+110,Shoes,Accessories,99865,3,Credit Card,20/04/2023,299595,April,0.35,1,1,1,0
+111,Shoes,Electronics,12418.44,1,Easypaisa,21/04/2023,12418.44,April,0.35,1,,1,0
+112,Mobile,Electronics,18725.49,2,JazzCash,22/04/2023,37450.98,April,0.35,1,1,1,0
+113,Shoes,Accessories,57919.08,4,JazzCash,23/04/2023,231676.32,April,0.35,1,1,1,0
+114,Bag,Electronics,57742.9,4,Credit Card,24/04/2023,230971.6,April,0.35,1,1,1,0
+115,Laptop,Accessories,51471.24,4,COD,25/04/2023,205884.96,April,0.35,1,1,1,0
+116,Laptop,Electronics,55668.9,1,Easypaisa,26/04/2023,55668.9,April,0.35,1,1,1,0
+117,Mobile,Electronics,43646.59,1,JazzCash,27/04/2023,43646.59,April,0.35,1,1,1,0
+118,Watch,Fashion,20518.03,3,Credit Card,28/04/2023,61554.09,April,0.35,1,1,1,0
+119,Mobile,Fashion,27982.83,4,JazzCash,29/04/2023,111931.32,April,0.35,1,1,1,0
+120,Watch,Accessories,14937.02,1,Easypaisa,30/04/2023,14937.02,April,0.202,1,1,1,0
+121,Laptop,Fashion,72721.82,3,Easypaisa,01/05/2023,218165.46,May,0.35,1,1,1,0
+122,Mobile,Accessories,46879.65,4,Debit Card,02/05/2023,187518.6,May,0.35,1,1,1,0
+123,Headphones,Fashion,32367.69,2,Credit Card,03/05/2023,64735.38,May,0.35,1,1,1,0
+124,Bag,Electronics,37229.46,3,Easypaisa,04/05/2023,111688.38,May,0.35,1,1,1,0
+125,Shoes,Accessories,75809.03,1,Debit Card,05/05/2023,75809.03,May,0.35,1,2,1,0
+126,Watch,Accessories,12691.44,1,Debit Card,06/05/2023,12691.44,May,0.35,1,2,1,0
+127,Headphones,Electronics,47105.27,3,JazzCash,07/05/2023,141315.81,May,0.32,3,2,1,0
+128,Shoes,Accessories,40718.15,3,JazzCash,08/05/2023,122154.45,May,0.35,3,2,1,0
+129,Shoes,Accessories,49110.61,1,Debit Card,09/05/2023,49110.61,May,0.35,3,2,1,0
+130,Mobile,Fashion,1939.76,2,JazzCash,10/05/2023,3879.52,May,0.202,3,2,1,0
+131,Shoes,Accessories,69833.85,4,Easypaisa,11/05/2023,279335.4,May,0.35,3,2,1,0
+132,Bag,Electronics,74603.4,2,COD,12/05/2023,149206.8,May,0.35,3,2,1,0
+133,Headphones,Fashion,45428.09,3,Easypaisa,13/05/2023,136284.27,May,0.35,3,0,1,0
+134,Shoes,Fashion,55883.74,2,Debit Card,14/05/2023,111767.48,May,0.35,3,0,1,0
+135,Mobile,Electronics,73838.7,1,Debit Card,15/05/2023,73838.7,May,0.35,3,0,1,0
+136,Bag,Electronics,56725.47,3,Easypaisa,16/05/2023,170176.41,May,0.35,3,0,1,0
+137,Laptop,Fashion,12626.85,4,JazzCash,17/05/2023,50507.4,May,0.32,,0,1,0
+138,Headphones,Accessories,46314.92,1,JazzCash,18/05/2023,46314.92,May,0.35,3,0,1,0
+139,Shoes,Fashion,48733.85,1,Debit Card,19/05/2023,48733.85,May,0.202,3,0,1,0
+140,Mobile,Electronics,34218.39,4,Credit Card,20/05/2023,136873.56,May,0.35,3,0,1,0
+141,Laptop,Fashion,59047.32,4,JazzCash,21/05/2023,236189.28,May,0.35,3,0,1,0
+142,Laptop,Electronics,74782.18,2,Easypaisa,22/05/2023,149564.36,May,0.35,3,0,1,0
+143,Watch,Fashion,74082.7,3,JazzCash,23/05/2023,222248.1,May,0.35,3,0,1,0
+144,Bag,Accessories,36341.73,4,Easypaisa,24/05/2023,145366.92,May,0.35,3,,1,0
+145,Shoes,Fashion,7332,4,Debit Card,25/05/2023,29328,May,0.35,3,1,1,0
+146,Mobile,Fashion,78794.88,3,JazzCash,26/05/2023,236384.64,May,0.35,3,1,1,0
+147,Watch,Electronics,67192.4,4,Easypaisa,27/05/2023,268769.6,May,0.35,3,1,1,0
+148,Bag,Electronics,10410.68,4,Debit Card,28/05/2023,41642.72,May,0.35,3,1,1,0
+149,Watch,Electronics,73706.93,2,Credit Card,29/05/2023,147413.86,May,0.35,3,1,1,0
+150,Headphones,Fashion,69656.76,1,Easypaisa,30/05/2023,69656.76,May,0.35,3,1,1,0
+151,Bag,Accessories,41747.63,1,Credit Card,31/05/2023,41747.63,May,0.35,3,1,1,0
+152,Bag,Electronics,47506.4,1,Credit Card,01/06/2023,47506.4,June,0.35,3,1,1,0
+153,Shoes,Electronics,32220.71,1,COD,02/06/2023,32220.71,June,0.35,3,1,1,0
+154,Bag,Fashion,4853.55,4,JazzCash,03/06/2023,19414.2,June,0.35,3,1,1,0
+155,Watch,Electronics,27148.18,3,Easypaisa,04/06/2023,81444.54,June,0.35,3,1,1,0
+156,Bag,Accessories,64326.85,3,Credit Card,05/06/2023,192980.55,June,0.35,3,1,1,0
+157,Shoes,Accessories,2343,2,COD,06/06/2023,4686,June,0.35,3,1,1,0
+158,Shoes,Electronics,27013.18,2,Debit Card,07/06/2023,54026.36,June,0.35,3,1,1,0
+159,Headphones,Electronics,32154.41,4,Easypaisa,08/06/2023,128617.64,June,0.35,3,1,1,0
+160,Watch,Fashion,43222.95,3,Credit Card,09/06/2023,129668.85,June,0.35,3,1,1,0
+161,Laptop,Accessories,73628.52,3,JazzCash,10/06/2023,220885.56,June,0.35,3,1,1,0
+162,Laptop,Accessories,28034.51,1,COD,11/06/2023,28034.51,June,0.202,3,3,1,0
+163,Bag,Electronics,28082.78,4,Credit Card,12/06/2023,112331.12,June,0.35,3,3,1,0
+164,Headphones,Fashion,59131.35,4,JazzCash,13/06/2023,236525.4,June,0.202,3,3,1,0
+165,Mobile,Accessories,36451.33,1,Credit Card,14/06/2023,36451.33,June,0.202,3,3,1,0
+166,Bag,Accessories,18356.08,4,Easypaisa,15/06/2023,73424.32,June,0.35,3,3,1,0
+167,Headphones,Fashion,36468.94,4,Easypaisa,16/06/2023,145875.76,June,0.35,3,3,1,0
+168,Watch,Fashion,11698.13,2,Easypaisa,17/06/2023,23396.26,June,0.35,3,3,1,0
+169,Watch,Accessories,14522.77,3,COD,18/06/2023,43568.31,June,0.35,3,3,1,0
+170,Watch,Accessories,40120.24,4,Easypaisa,19/06/2023,160480.96,June,0.35,3,3,1,0
+171,Watch,Fashion,33804.57,2,JazzCash,20/06/2023,67609.14,June,0.35,3,,1,0
+172,Watch,Accessories,73230.25,3,Credit Card,21/06/2023,219690.75,June,0.35,3,3,1,0
+173,Headphones,Electronics,29310.31,1,Debit Card,22/06/2023,29310.31,June,0.35,3,3,1,0
+174,Headphones,Electronics,46656.77,2,JazzCash,23/06/2023,93313.54,June,0.202,3,3,1,0
+175,Shoes,Fashion,50765.01,2,JazzCash,24/06/2023,101530.02,June,0.35,3,3,1,0
+176,Laptop,Fashion,1541.01,3,Easypaisa,25/06/2023,4623.03,June,0.7,,3,1,0
+177,Watch,Fashion,53251.22,1,COD,26/06/2023,53251.22,June,0.7,3,3,1,0
+178,Mobile,Electronics,14653.86,2,Credit Card,27/06/2023,29307.72,June,0.7,3,3,1,0
+179,Headphones,Accessories,76905.09,4,COD,28/06/2023,307620.36,June,0.7,3,3,1,0
+180,Mobile,Electronics,12318.69,4,Credit Card,29/06/2023,49274.76,June,0.7,3,3,1,0
+181,Mobile,Accessories,33462.62,4,Credit Card,30/06/2023,133850.48,June,0.7,3,3,1,0
+182,Mobile,Electronics,7285.3,1,COD,01/07/2023,7285.3,July,0.7,3,3,1,0
+183,Shoes,Accessories,79751.5,2,JazzCash,02/07/2023,159503,July,0.65,3,3,1,0
+184,Headphones,Electronics,40424.5,4,Credit Card,03/07/2023,161698,July,0.8,3,3,1,0
+185,Mobile,Fashion,47833.11,1,COD,04/07/2023,47833.11,July,0.7,3,3,1,0
+186,Watch,Electronics,5832.58,4,Credit Card,05/07/2023,23330.32,July,0.8,3,3,1,0
+187,Bag,Accessories,60121.86,3,Debit Card,06/07/2023,180365.58,July,0.7,3,3,1,0
+188,Mobile,Electronics,17187.49,2,JazzCash,07/07/2023,34374.98,July,0.8,3,3,1,0
+189,Shoes,Electronics,71895.32,2,Easypaisa,08/07/2023,143790.64,July,0.7,3,3,1,0
+190,Headphones,Electronics,16808.6,1,Credit Card,09/07/2023,16808.6,July,0.7,3,3,1,0
+191,Shoes,Fashion,15659.67,1,Debit Card,10/07/2023,15659.67,July,0.7,3,3,1,0
+192,Mobile,Electronics,3405.7,2,Easypaisa,11/07/2023,6811.4,July,0.8,3,3,1,0
+193,Headphones,Fashion,38029.32,4,Easypaisa,12/07/2023,152117.28,July,0.7,3,3,1,0
+194,Bag,Fashion,45404.87,4,Credit Card,13/07/2023,181619.48,July,0.7,3,3,1,0
+195,Mobile,Electronics,5723.84,3,COD,14/07/2023,17171.52,July,0.7,3,3,1,0
+196,Shoes,Electronics,62154.45,4,Credit Card,15/07/2023,248617.8,July,0.8,3,3,1,0
+197,Laptop,Electronics,36536.46,1,Debit Card,16/07/2023,36536.46,July,0.7,3,3,1,0
+198,Watch,Accessories,42189.03,1,Easypaisa,17/07/2023,42189.03,July,0.8,3,3,1,0
+199,Shoes,Electronics,35540.64,4,Credit Card,18/07/2023,142162.56,July,0.7,3,3,1,0
+200,Headphones,Fashion,32360.66,1,COD,19/07/2023,32360.66,July,0.7,3,3,1,0
+201,Mobile,Electronics,44991.41,2,Credit Card,20/07/2023,89982.82,July,0.7,3,,1,0
+202,Watch,Accessories,12841.6,2,JazzCash,21/07/2023,25683.2,July,0.8,3,3,1,0
+203,Mobile,Electronics,14963.29,4,COD,22/07/2023,59853.16,July,0.7,3,3,1,0
+204,Headphones,Accessories,69011.96,2,Debit Card,23/07/2023,138023.92,July,0.7,3,3,1,0
+205,Mobile,Accessories,75716.18,2,Easypaisa,24/07/2023,151432.36,July,0.7,3,3,1,0
+206,Laptop,Electronics,30178.09,3,Credit Card,25/07/2023,90534.27,July,0.7,6,3,1,0
+207,Watch,Fashion,22024.2,3,COD,26/07/2023,66072.6,July,0.7,6,3,1,0
+208,Watch,Accessories,51697.96,4,JazzCash,27/07/2023,206791.84,July,0.7,6,3,1,0
+209,Headphones,Electronics,32994.37,4,COD,28/07/2023,131977.48,July,0.7,6,3,1,0
+210,Laptop,Electronics,2518.22,3,JazzCash,29/07/2023,7554.66,July,0.7,6,3,1,0
+211,Shoes,Fashion,12914.13,1,Debit Card,30/07/2023,12914.13,July,0.65,6,3,1,0
+212,Mobile,Accessories,57419.79,1,Easypaisa,31/07/2023,57419.79,July,0.7,6,3,1,0
+213,Bag,Accessories,52884.45,1,Debit Card,01/08/2023,52884.45,August,0.7,6,3,1,0
+214,Mobile,Electronics,2654.13,4,Credit Card,02/08/2023,10616.52,August,0.8,6,3,1,0
+215,Mobile,Electronics,18146.79,2,COD,03/08/2023,36293.58,August,0.65,6,3,1,0
+216,Shoes,Fashion,18870.45,1,JazzCash,04/08/2023,18870.45,August,0.7,6,3,1,0
+217,Mobile,Fashion,53915.47,4,JazzCash,05/08/2023,215661.88,August,0.7,6,3,1,0
+218,Laptop,Accessories,2066.99,3,COD,06/08/2023,6200.97,August,0.7,6,3,1,0
+219,Laptop,Accessories,8776.63,2,COD,07/08/2023,17553.26,August,0.7,6,3,1,0
+220,Watch,Electronics,64093.33,3,Credit Card,08/08/2023,192279.99,August,0.8,6,3,1,0
+221,Headphones,Accessories,14694.3,4,Debit Card,09/08/2023,58777.2,August,0.7,6,3,1,0
+222,Bag,Fashion,52393.32,1,JazzCash,10/08/2023,52393.32,August,0.7,6,3,1,0
+223,Mobile,Fashion,19435.53,1,Credit Card,11/08/2023,19435.53,August,0.8,6,3,1,0
+224,Mobile,Electronics,8405.59,4,Debit Card,12/08/2023,33622.36,August,0.7,6,3,1,0
+225,Shoes,Fashion,19832.19,1,Credit Card,13/08/2023,19832.19,August,0.7,6,,1,0
+226,Headphones,Fashion,57920.22,2,JazzCash,14/08/2023,115840.44,August,0.7,6,3,1,0
+227,Laptop,Fashion,68527.87,4,COD,15/08/2023,274111.48,August,0.65,6,3,1,0
+228,Bag,Fashion,66502.48,3,COD,16/08/2023,199507.44,August,0.7,6,3,1,0
+229,Watch,Electronics,32076.09,4,Debit Card,17/08/2023,128304.36,August,0.7,6,3,1,0
+230,Laptop,Electronics,53612.77,2,Easypaisa,18/08/2023,107225.54,August,0.65,6,3,1,0
+231,Headphones,Accessories,16796.25,2,Debit Card,19/08/2023,33592.5,August,0.7,6,3,1,0
+232,Watch,Fashion,23805.24,4,Easypaisa,20/08/2023,95220.96,August,0.7,6,3,1,0
+233,Shoes,Accessories,71758.7,4,Credit Card,21/08/2023,287034.8,August,0.8,,3,1,0
+234,Shoes,Electronics,1533.65,1,Credit Card,22/08/2023,1533.65,August,0.7,6,3,1,0
+235,Mobile,Electronics,7297.93,2,JazzCash,23/08/2023,14595.86,August,0.8,6,3,1,0
+236,Headphones,Electronics,17026.96,4,Easypaisa,24/08/2023,68107.84,August,0.7,6,3,1,0
+237,Bag,Electronics,2609.31,4,JazzCash,25/08/2023,10437.24,August,0.7,6,3,1,0
+238,Watch,Electronics,14924.12,2,COD,26/08/2023,29848.24,August,0.7,6,3,1,0
+239,Laptop,Electronics,46851.8,4,Easypaisa,27/08/2023,187407.2,August,0.8,6,3,1,0
+240,Headphones,Electronics,34003.25,1,Debit Card,28/08/2023,34003.25,August,0.7,6,3,1,0
+241,Headphones,Fashion,71467.4,2,COD,29/08/2023,142934.8,August,0.8,6,3,1,0
+242,Shoes,Accessories,65486.76,1,COD,30/08/2023,65486.76,August,0.8,6,2,1,0
+243,Mobile,Electronics,27674.48,1,Debit Card,31/08/2023,27674.48,August,0.7,6,2,1,0
+244,Mobile,Fashion,2245,1,COD,01/09/2023,2245,September,0.7,6,2,1,0
+245,Watch,Fashion,30685.55,1,Easypaisa,02/09/2023,30685.55,September,0.7,6,2,1,0
+246,Shoes,Accessories,47428.45,2,JazzCash,03/09/2023,94856.9,September,0.7,6,2,1,0
+247,Headphones,Electronics,21811.06,1,COD,04/09/2023,21811.06,September,0.7,6,0,1,0
+248,Bag,Accessories,50119.84,1,Easypaisa,05/09/2023,50119.84,September,0.7,6,0,1,0
+249,Shoes,Electronics,33048.23,4,Credit Card,06/09/2023,132192.92,September,0.8,6,,1,0
+250,Watch,Fashion,44387.75,2,Easypaisa,07/09/2023,88775.5,September,0.8,6,0,1,0
+251,Watch,Fashion,35172.06,2,JazzCash,08/09/2023,70344.12,September,0.7,6,0,1,0
+252,Shoes,Fashion,21345,3,Easypaisa,09/09/2023,64035,September,0.8,6,0,1,0
+253,Watch,Fashion,75902.04,2,Debit Card,10/09/2023,151804.08,September,0.7,6,0,1,0
+254,Shoes,Accessories,61206.66,2,JazzCash,11/09/2023,122413.32,September,0.7,6,0,1,0
+255,Laptop,Electronics,11639,3,Credit Card,12/09/2023,34917,September,0.7,6,0,1,0
+256,Shoes,Electronics,69543.2,2,Debit Card,13/09/2023,139086.4,September,0.7,6,1,1,0
+257,Shoes,Accessories,39250.78,2,Easypaisa,14/09/2023,78501.56,September,0.7,5,1,1,0
+258,Watch,Electronics,71616.9,2,JazzCash,15/09/2023,143233.8,September,0.8,5,1,1,0
+259,Watch,Fashion,64088.49,2,Credit Card,16/09/2023,128176.98,September,0.7,5,1,1,0
+260,Mobile,Electronics,34304.47,3,Debit Card,17/09/2023,102913.41,September,0.8,5,1,1,0
+261,Mobile,Fashion,2286.31,2,Credit Card,18/09/2023,4572.62,September,0.7,5,1,1,0
+262,Laptop,Accessories,6221,2,Easypaisa,19/09/2023,12442,September,0.7,5,1,1,0
+263,Mobile,Electronics,43559.92,3,Credit Card,20/09/2023,130679.76,September,0.8,5,1,1,0
+264,Shoes,Accessories,50861.52,4,COD,21/09/2023,203446.08,September,0.7,5,1,1,0
+265,Watch,Electronics,21002.07,1,Debit Card,22/09/2023,21002.07,September,0.8,5,1,1,0
+266,Mobile,Fashion,11578.81,4,Credit Card,23/09/2023,46315.24,September,0.7,5,1,1,0
+267,Mobile,Accessories,66876.95,3,Easypaisa,24/09/2023,200630.85,September,0.7,5,1,1,0
+268,Laptop,Electronics,78759.97,1,Easypaisa,25/09/2023,78759.97,September,0.85,5,1,1,0
+269,Headphones,Fashion,42292.37,3,Credit Card,26/09/2023,126877.11,September,0.7,5,3,1,0
+270,Laptop,Accessories,14148.5,3,Easypaisa,27/09/2023,42445.5,September,0.8,5,3,1,0
+271,Shoes,Accessories,22148.43,2,JazzCash,28/09/2023,44296.86,September,0.7,5,3,1,0
+272,Watch,Electronics,1962.06,1,JazzCash,29/09/2023,1962.06,September,0.7,5,3,1,0
+273,Laptop,Electronics,73186.76,2,JazzCash,30/09/2023,146373.52,September,0.7,5,3,1,0
+274,Mobile,Electronics,9861.21,1,COD,01/10/2023,9861.21,October,0.7,5,3,1,0
+275,Watch,Fashion,46333.06,3,Credit Card,02/10/2023,138999.18,October,0.7,5,3,1,0
+276,Watch,Electronics,22287.39,3,COD,03/10/2023,66862.17,October,0.7,5,,1,0
+277,Mobile,Accessories,44557.15,4,Easypaisa,04/10/2023,178228.6,October,0.7,5,3,1,0
+278,Laptop,Accessories,52287.92,1,COD,05/10/2023,52287.92,October,0.8,5,3,1,0
+279,Mobile,Electronics,66464.47,2,Easypaisa,06/10/2023,132928.94,October,0.7,5,3,1,0
+280,Headphones,Electronics,16910.49,4,Easypaisa,07/10/2023,67641.96,October,0.7,5,3,1,0
+281,Watch,Accessories,1374.17,4,Debit Card,08/10/2023,5496.68,October,0.7,5,3,1,0
+282,Bag,Fashion,11382.41,4,JazzCash,09/10/2023,45529.64,October,0.7,5,3,1,0
+283,Bag,Electronics,72051.48,2,Easypaisa,10/10/2023,144102.96,October,0.7,5,3,1,0
+284,Shoes,Electronics,69974.26,4,Debit Card,11/10/2023,279897.04,October,0.8,5,3,1,0
+285,Mobile,Accessories,47994.34,2,JazzCash,12/10/2023,95988.68,October,0.8,5,1,1,0
+286,Mobile,Electronics,48241.09,4,Easypaisa,13/10/2023,192964.36,October,0,5,1,1,0
+287,Shoes,Fashion,53370.42,2,Easypaisa,14/10/2023,106740.84,October,0.1,5,1,1,0
+288,Shoes,Accessories,14442.02,3,COD,15/10/2023,43326.06,October,0.1,5,1,1,0
+289,Shoes,Electronics,73195.75,3,COD,16/10/2023,219587.25,October,0.1,5,1,1,0
+290,Watch,Accessories,33792.26,3,JazzCash,17/10/2023,101376.78,October,0,,1,1,0
+291,Headphones,Electronics,30959.51,3,Easypaisa,18/10/2023,92878.53,October,0.1,5,1,1,0
+292,Mobile,Electronics,41753.96,3,Credit Card,19/10/2023,125261.88,October,0,5,1,1,0
+293,Watch,Electronics,4233.79,4,COD,20/10/2023,16935.16,October,0,5,1,1,0
+294,Shoes,Fashion,13719.53,4,JazzCash,21/10/2023,54878.12,October,0,5,1,1,0
+295,Mobile,Fashion,59173.67,4,Easypaisa,22/10/2023,236694.68,October,0.2,5,1,1,0
+296,Watch,Accessories,7082.49,2,Easypaisa,23/10/2023,14164.98,October,0,5,1,1,0
+297,Headphones,Electronics,48450.59,2,Credit Card,24/10/2023,96901.18,October,0,5,1,1,0
+298,Watch,Electronics,20005.25,2,JazzCash,25/10/2023,40010.5,October,0,5,1,1,0
+299,Headphones,Fashion,31449,2,Easypaisa,26/10/2023,62898,October,0,5,1,1,0
+300,Shoes,Electronics,23451.15,3,COD,27/10/2023,70353.45,October,0,5,,1,0
+301,Headphones,Fashion,28775.98,3,Credit Card,28/10/2023,86327.94,October,0.1,5,1,1,0
+302,Mobile,Electronics,57664.15,3,JazzCash,29/10/2023,172992.45,October,0.2,5,1,1,0
+303,Shoes,Accessories,5211,1,Credit Card,30/10/2023,5211,October,0,5,1,1,0
+304,Mobile,Electronics,45529.17,4,COD,31/10/2023,182116.68,October,0.1,5,1,1,0
+305,Bag,Electronics,38346.01,2,JazzCash,01/11/2023,76692.02,November,0,5,1,1,0
+306,Laptop,Fashion,53261.86,2,Credit Card,02/11/2023,106523.72,November,0,5,1,1,0
+307,Headphones,Electronics,74977.96,3,Debit Card,03/11/2023,224933.88,November,0,5,1,1,0
+308,Laptop,Electronics,58739.48,2,COD,04/11/2023,117478.96,November,0,5,1,1,0
+309,Laptop,Fashion,17587.76,2,COD,05/11/2023,35175.52,November,0,5,1,1,0
+310,Headphones,Accessories,2979.06,4,COD,06/11/2023,11916.24,November,0,5,1,1,0
+311,Shoes,Accessories,21349.99,3,Debit Card,07/11/2023,64049.97,November,0.2,,1,1,0
+312,Bag,Fashion,47808.7,4,Debit Card,08/11/2023,191234.8,November,0,5,1,1,0
+313,Mobile,Fashion,4588.35,1,Easypaisa,09/11/2023,4588.35,November,0.1,5,1,1,0
+314,Watch,Fashion,39961.12,1,Credit Card,10/11/2023,39961.12,November,0,5,1,1,0
+315,Mobile,Fashion,47949.01,1,Easypaisa,11/11/2023,47949.01,November,0,5,1,1,0
+316,Watch,Fashion,27072.39,3,Credit Card,12/11/2023,81217.17,November,0.2,5,1,1,0
+317,Mobile,Accessories,61787.52,2,Debit Card,13/11/2023,123575.04,November,0.15,5,1,1,0
+318,Headphones,Accessories,8974.56,3,Debit Card,14/11/2023,26923.68,November,0.2,5,1,1,0
+319,Bag,Fashion,6473.45,3,Easypaisa,15/11/2023,19420.35,November,0.1,5,1,1,0
+320,Watch,Electronics,58391.01,2,JazzCash,16/11/2023,116782.02,November,0,5,1,1,0
+321,Shoes,Fashion,39891.56,4,Easypaisa,17/11/2023,159566.24,November,0,5,1,1,0
+322,Mobile,Electronics,55227.99,1,Credit Card,18/11/2023,55227.99,November,0.2,5,1,1,0
+323,Mobile,Fashion,35068.77,4,Easypaisa,19/11/2023,140275.08,November,0,5,1,1,0
+324,Watch,Fashion,20088.96,1,COD,20/11/2023,20088.96,November,0,5,1,1,0
+325,Shoes,Accessories,65618.63,3,Credit Card,21/11/2023,196855.89,November,0.1,5,1,1,0
+326,Shoes,Electronics,64053.56,1,Credit Card,22/11/2023,64053.56,November,0.17,5,1,1,0
+327,Headphones,Electronics,55728.37,3,JazzCash,23/11/2023,167185.11,November,0,5,1,1,0
+328,Headphones,Accessories,22135.54,4,Debit Card,24/11/2023,88542.16,November,0,5,1,1,0
+329,Headphones,Accessories,47423.34,2,Credit Card,25/11/2023,94846.68,November,0,5,1,1,0
+330,Headphones,Accessories,29197.42,4,Debit Card,26/11/2023,116789.68,November,0.2,5,,1,0
+331,Headphones,Accessories,7780.77,2,Easypaisa,27/11/2023,15561.54,November,0,5,1,1,0
+332,Headphones,Electronics,73426.43,2,COD,28/11/2023,146852.86,November,0.1,5,1,1,0
+333,Bag,Electronics,11377.08,2,JazzCash,29/11/2023,22754.16,November,0.15,5,1,1,0
+334,Shoes,Fashion,76043.87,3,Debit Card,30/11/2023,228131.61,November,0.17,5,1,1,0
+335,Headphones,Fashion,35957.46,2,Credit Card,01/12/2023,71914.92,December,0.15,5,1,1,0
+336,Shoes,Accessories,15218.07,1,Debit Card,02/12/2023,15218.07,December,0.17,5,1,1,0
+337,Shoes,Accessories,43581.13,4,Credit Card,03/12/2023,174324.52,December,0.15,5,1,1,0
+338,Laptop,Accessories,69899.19,4,Debit Card,04/12/2023,279596.76,December,0.15,5,1,1,0
+339,Bag,Fashion,58711.88,1,Credit Card,05/12/2023,58711.88,December,0.15,5,1,1,0
+340,Headphones,Fashion,64621.61,3,Easypaisa,06/12/2023,193864.83,December,0.15,5,1,1,0
+341,Mobile,Fashion,52873.28,3,Credit Card,07/12/2023,158619.84,December,0.17,,1,1,0
+342,Watch,Fashion,55535.99,4,Credit Card,08/12/2023,222143.96,December,0.17,5,1,1,0
+343,Mobile,Fashion,68011.05,2,COD,09/12/2023,136022.1,December,0.17,5,1,1,0
+344,Bag,Fashion,20348.61,3,Credit Card,10/12/2023,61045.83,December,0.17,5,1,1,0
+345,Watch,Fashion,39409.28,3,COD,11/12/2023,118227.84,December,0.15,5,1,1,0
+346,Bag,Accessories,18086.15,1,JazzCash,12/12/2023,18086.15,December,0.35,5,1,1,0
+347,Shoes,Accessories,79019.61,1,COD,13/12/2023,79019.61,December,0.15,5,1,1,0
+348,Watch,Accessories,75552.72,2,Easypaisa,14/12/2023,151105.44,December,0.17,5,1,1,0
+349,Shoes,Accessories,3634.43,3,COD,15/12/2023,10903.29,December,0.15,5,1,1,0
+350,Mobile,Fashion,56593.23,3,JazzCash,16/12/2023,169779.69,December,0.15,5,2,1,0
+351,Mobile,Electronics,74057.24,1,Easypaisa,17/12/2023,74057.24,December,0.15,5,2,1,0
+352,Watch,Fashion,14855.74,3,Debit Card,18/12/2023,44567.22,December,0.15,5,2,1,0
+353,Watch,Electronics,45651.65,4,Debit Card,19/12/2023,182606.6,December,0.17,5,2,1,0
+354,Headphones,Accessories,73281.32,1,COD,20/12/2023,73281.32,December,0.17,5,2,1,0
+355,Bag,Fashion,3198.71,2,COD,21/12/2023,6397.42,December,0.17,5,2,1,0
+356,Headphones,Accessories,55944.91,1,JazzCash,22/12/2023,55944.91,December,0.17,5,2,1,0
+357,Bag,Fashion,24139.25,3,JazzCash,23/12/2023,72417.75,December,0.15,2,2,1,0
+358,Headphones,Accessories,73989.5,2,Credit Card,24/12/2023,147979,December,0.35,2,2,1,0
+359,Shoes,Electronics,77699.13,1,JazzCash,25/12/2023,77699.13,December,0.15,2,2,1,0
+360,Watch,Electronics,75569.19,4,Credit Card,26/12/2023,302276.76,December,0.15,2,2,1,0
+361,Mobile,Electronics,38200.03,4,Easypaisa,27/12/2023,152800.12,December,0.17,2,2,1,0
+362,Bag,Fashion,69032.39,1,COD,28/12/2023,69032.39,December,0.17,2,2,1,0
+363,Bag,Electronics,67641.68,6,Easypaisa,29/12/2023,405850.08,December,0.15,2,2,1,0
+364,Mobile,Fashion,25868.49,4,JazzCash,30/12/2023,103473.96,December,0.35,2,2,1,0
+365,Headphones,Electronics,66398.78,4,Easypaisa,31/12/2023,265595.12,December,0.35,2,2,1,0
+366,Bag,Electronics,3442.11,2,Easypaisa,01/01/2024,6884.22,January,0.15,2,2,1,0
+367,Shoes,Fashion,47903.46,4,Easypaisa,02/01/2024,191613.84,January,0.17,2,2,1,0
+368,Watch,Fashion,18785.7,4,JazzCash,03/01/2024,75142.8,January,0.17,2,2,1,0
+369,Mobile,Electronics,10085.07,4,Easypaisa,04/01/2024,40340.28,January,0.17,2,2,1,0
+370,Watch,Fashion,6617.78,2,Credit Card,05/01/2024,13235.56,January,0.35,2,2,1,0
+371,Bag,Electronics,55854.96,1,JazzCash,06/01/2024,55854.96,January,0.15,2,2,1,0
+372,Bag,Fashion,27520.06,3,Easypaisa,07/01/2024,82560.18,January,0.17,2,,1,0
+373,Mobile,Accessories,58118.96,4,JazzCash,08/01/2024,232475.84,January,0.15,2,2,1,0
+374,Shoes,Accessories,5695.83,1,Debit Card,09/01/2024,5695.83,January,0.15,,2,1,0
+375,Laptop,Accessories,25565.58,4,Credit Card,10/01/2024,102262.32,January,0.17,2,2,1,0
+376,Mobile,Accessories,43389.56,2,Easypaisa,11/01/2024,86779.12,January,0.15,2,2,1,0
+377,Laptop,Accessories,63362.49,1,Debit Card,12/01/2024,63362.49,January,0.15,2,2,1,0
+378,Headphones,Electronics,25840.82,2,Debit Card,13/01/2024,51681.64,January,0.15,2,2,1,0
+379,Laptop,Accessories,50258.36,4,JazzCash,14/01/2024,201033.44,January,0.15,2,2,1,0
+380,Shoes,Accessories,70935.23,4,Debit Card,15/01/2024,283740.92,January,0.15,2,2,1,0
+381,Headphones,Accessories,49461.12,2,Credit Card,16/01/2024,98922.24,January,0.15,2,2,1,0
+382,Laptop,Accessories,19020.28,3,Credit Card,17/01/2024,57060.84,January,0.15,2,2,1,0
+383,Headphones,Fashion,2439.86,2,COD,18/01/2024,4879.72,January,0.35,2,2,1,0
+384,Laptop,Electronics,69672.86,4,Credit Card,19/01/2024,278691.44,January,0.35,2,2,1,0
+385,Shoes,Accessories,2190.92,2,Debit Card,20/01/2024,4381.84,January,0.15,2,2,1,0
+386,Laptop,Accessories,70038.78,3,Credit Card,21/01/2024,210116.34,January,0.15,2,0,1,0
+387,Laptop,Accessories,42550.5,2,JazzCash,22/01/2024,85101,January,0.17,2,0,1,0
+388,Laptop,Electronics,75155.88,3,COD,23/01/2024,225467.64,January,0.17,2,0,1,0
+389,Mobile,Fashion,64003.27,3,Debit Card,24/01/2024,192009.81,January,0.15,2,0,1,0
+390,Mobile,Electronics,79835.76,2,COD,25/01/2024,159671.52,January,0.35,2,0,1,0
+391,Mobile,Fashion,28381.59,2,Debit Card,26/01/2024,56763.18,January,0.17,2,0,1,0
+392,Shoes,Accessories,61491.47,1,JazzCash,27/01/2024,61491.47,January,0.15,2,0,1,0
+393,Headphones,Accessories,32453.51,4,COD,28/01/2024,129814.04,January,0.17,2,0,1,0
+394,Bag,Electronics,38650.11,3,Easypaisa,29/01/2024,115950.33,January,0.17,2,0,1,0
+395,Laptop,Electronics,50386.68,1,Debit Card,30/01/2024,50386.68,January,0.35,2,0,1,0
+396,Laptop,Fashion,69957.33,2,Easypaisa,31/01/2024,139914.66,January,0.35,2,0,1,0
+397,Shoes,Fashion,78734.64,4,COD,01/02/2024,314938.56,February,0.35,2,0,1,0
+398,Laptop,Electronics,61577.74,1,Easypaisa,02/02/2024,61577.74,February,0.35,2,0,1,0
+399,Mobile,Fashion,33712.46,3,Easypaisa,03/02/2024,101137.38,February,0.35,2,0,1,0
+400,Bag,Electronics,33997.88,1,COD,04/02/2024,33997.88,February,0.35,2,0,1,0
+401,Watch,Fashion,59137.79,3,JazzCash,05/02/2024,177413.37,February,0.35,2,0,1,0
+402,Laptop,Electronics,19482.78,2,Easypaisa,06/02/2024,38965.56,February,0.35,2,0,1,0
+403,Mobile,Electronics,9282.69,4,Easypaisa,07/02/2024,37130.76,February,0.35,2,0,1,0
+404,Watch,Electronics,28692.46,4,JazzCash,08/02/2024,114769.84,February,0.35,,0,1,0
+405,Bag,Fashion,23335.5,4,Easypaisa,09/02/2024,93342,February,0.202,2,0,1,0
+406,Watch,Fashion,24056.5,2,Easypaisa,10/02/2024,48113,February,0.35,2,0,1,0
+407,Mobile,Fashion,19071.82,3,Easypaisa,11/02/2024,57215.46,February,0.35,2,0,1,0
+408,Headphones,Electronics,3846.41,2,Credit Card,12/02/2024,7692.82,February,0.35,2,0,1,0
+409,Headphones,Fashion,1920.98,4,JazzCash,13/02/2024,7683.92,February,0.35,2,0,1,0
+410,Watch,Fashion,79023.93,2,Easypaisa,14/02/2024,158047.86,February,0.35,2,0,1,0
+411,Shoes,Electronics,34507.96,2,JazzCash,15/02/2024,69015.92,February,0.35,2,0,1,0
+412,Watch,Accessories,31053.97,2,Debit Card,16/02/2024,62107.94,February,0.32,2,0,1,0
+413,Laptop,Electronics,54531.96,3,Debit Card,17/02/2024,163595.88,February,0.35,2,0,1,0
+414,Laptop,Fashion,17851.18,1,Easypaisa,18/02/2024,17851.18,February,0.35,2,,1,0
+415,Headphones,Electronics,76021.91,1,JazzCash,19/02/2024,76021.91,February,0.202,2,0,1,0
+416,Shoes,Accessories,63014.43,2,JazzCash,20/02/2024,126028.86,February,0.35,2,0,1,0
+417,Mobile,Electronics,7608.17,1,JazzCash,21/02/2024,7608.17,February,0.35,2,0,1,0
+418,Laptop,Fashion,33697.67,1,Credit Card,22/02/2024,33697.67,February,0.35,2,0,1,0
+419,Headphones,Accessories,70389.91,2,Debit Card,23/02/2024,140779.82,February,0.35,2,0,1,0
+420,Bag,Fashion,75606.2,2,JazzCash,24/02/2024,151212.4,February,0.35,2,0,1,0
+421,Headphones,Accessories,37658.42,4,JazzCash,25/02/2024,150633.68,February,0.35,2,0,1,0
+422,Laptop,Accessories,49266.21,1,Credit Card,26/02/2024,49266.21,February,0.32,2,0,1,0
+423,Laptop,Electronics,13779.2,3,Credit Card,27/02/2024,41337.6,February,0.35,2,0,1,0
+424,Headphones,Electronics,79297.91,2,JazzCash,28/02/2024,158595.82,February,0.202,2,0,1,0
+425,Mobile,Fashion,18917.9,4,COD,29/02/2024,75671.6,February,0.35,2,0,1,0
+426,Watch,Electronics,75447.18,3,JazzCash,01/03/2024,226341.54,March,0.35,2,0,1,0
+427,Laptop,Electronics,52146.91,1,JazzCash,02/03/2024,52146.91,March,0.35,2,0,1,0
+428,Headphones,Accessories,48815.08,4,Credit Card,03/03/2024,195260.32,March,0.35,2,0,1,0
+429,Headphones,Electronics,41258.74,2,Credit Card,04/03/2024,82517.48,March,0.35,2,,1,0
+430,Shoes,Accessories,18838.25,3,JazzCash,05/03/2024,56514.75,March,0.35,2,0,1,0
+431,Watch,Accessories,14533.98,2,JazzCash,06/03/2024,29067.96,March,0.35,2,0,1,0
+432,Bag,Accessories,234567,1,JazzCash,07/03/2024,234567,March,0.35,2,0,1,0
+433,Mobile,Fashion,15321.84,3,Credit Card,08/03/2024,45965.52,March,0.35,2,0,1,0
+434,Bag,Fashion,62476.97,1,JazzCash,09/03/2024,62476.97,March,0.35,2,0,1,0
+435,Watch,Fashion,28334.96,1,JazzCash,10/03/2024,28334.96,March,0.35,2,0,1,0
+436,Watch,Accessories,5098.49,4,Easypaisa,11/03/2024,20393.96,March,0.35,2,0,1,0
+437,Watch,Fashion,77543.66,2,COD,12/03/2024,155087.32,March,0.35,,3,1,0
+438,Bag,Fashion,70760.98,3,Debit Card,13/03/2024,212282.94,March,0.35,2,3,1,0
+439,Watch,Electronics,74256.31,1,COD,14/03/2024,74256.31,March,0.35,2,3,1,0
+440,Headphones,Fashion,79595.17,1,Easypaisa,15/03/2024,79595.17,March,0.35,2,3,1,0
+441,Bag,Fashion,14324.67,3,Debit Card,16/03/2024,42974.01,March,0.35,2,3,1,0
+442,Watch,Accessories,32001.24,1,JazzCash,17/03/2024,32001.24,March,0.35,2,3,1,0
+443,Headphones,Accessories,60779.96,4,Easypaisa,18/03/2024,243119.84,March,0.35,2,3,1,0
+444,Shoes,Accessories,55833.64,4,JazzCash,19/03/2024,223334.56,March,0.35,2,,1,0
+445,Watch,Accessories,12734.72,4,Credit Card,20/03/2024,50938.88,March,0.35,2,3,1,0
+446,Bag,Accessories,65358.73,4,Easypaisa,21/03/2024,261434.92,March,0.35,2,3,1,0
+447,Laptop,Accessories,18343.03,1,Credit Card,22/03/2024,18343.03,March,0.202,4,3,1,0
+448,Watch,Fashion,18293.5,3,Easypaisa,23/03/2024,54880.5,March,0.35,4,3,1,0
+449,Laptop,Accessories,43189.47,3,Easypaisa,24/03/2024,129568.41,March,0.202,4,3,1,0
+450,Headphones,Accessories,47638.72,3,Credit Card,25/03/2024,142916.16,March,0.202,4,3,1,0
+451,Shoes,Electronics,46616.85,3,Debit Card,26/03/2024,139850.55,March,0.35,4,3,1,0
+452,Mobile,Fashion,7773.2,2,COD,27/03/2024,15546.4,March,0.35,4,3,1,0
+453,Shoes,Fashion,70258.14,3,JazzCash,28/03/2024,210774.42,March,0.35,4,3,1,0
+454,Watch,Fashion,21615.2,2,Easypaisa,29/03/2024,43230.4,March,0.35,4,3,1,0
+455,Laptop,Accessories,10796.44,2,JazzCash,30/03/2024,21592.88,March,0.35,4,3,1,0
+456,Laptop,Accessories,71155.47,4,Credit Card,31/03/2024,284621.88,March,0.35,4,3,1,0
+457,Bag,Accessories,76474.29,2,JazzCash,01/04/2024,152948.58,April,0.35,4,3,1,0
+458,Laptop,Electronics,69039.15,1,Credit Card,02/04/2024,69039.15,April,0.35,4,3,1,0
+459,Bag,Accessories,64856.53,2,JazzCash,03/04/2024,129713.06,April,0.202,4,,1,0
+460,Headphones,Electronics,52591.74,4,COD,04/04/2024,210366.96,April,0.35,4,3,1,0
+461,Mobile,Fashion,44293.16,2,COD,05/04/2024,88586.32,April,0.7,4,3,1,0
+462,Watch,Accessories,7415.45,1,COD,06/04/2024,7415.45,April,0.7,4,3,1,0
+463,Bag,Electronics,32972.03,1,COD,07/04/2024,32972.03,April,0.7,4,3,1,0
+464,Mobile,Electronics,30128.74,1,COD,08/04/2024,30128.74,April,0.7,4,3,1,0
+465,Laptop,Accessories,21150.43,4,COD,09/04/2024,84601.72,April,0.7,4,3,1,0
+466,Laptop,Fashion,58011.9,4,Credit Card,10/04/2024,232047.6,April,0.7,4,3,1,0
+467,Mobile,Fashion,39922.12,3,Easypaisa,11/04/2024,119766.36,April,0.7,4,3,1,0
+468,Laptop,Fashion,6943.17,4,JazzCash,12/04/2024,27772.68,April,0.65,4,3,1,0
+469,Headphones,Electronics,18004.56,1,COD,13/04/2024,18004.56,April,0.8,4,3,1,0
+470,Headphones,Electronics,54819.07,1,Credit Card,14/04/2024,54819.07,April,0.7,,3,1,0
+471,Mobile,Electronics,6552.4,4,Credit Card,15/04/2024,26209.6,April,0.8,4,3,1,0
+472,Bag,Electronics,68170.95,2,Credit Card,16/04/2024,136341.9,April,0.7,4,3,1,0
+473,Bag,Fashion,39864.15,6,Easypaisa,17/04/2024,239184.9,April,0.8,4,3,1,0
+474,Mobile,Accessories,38706.63,4,JazzCash,18/04/2024,154826.52,April,0.7,4,3,1,0
+475,Bag,Electronics,47596.42,1,Easypaisa,19/04/2024,47596.42,April,0.7,4,3,1,0
+476,Bag,Electronics,66062.14,3,Debit Card,20/04/2024,198186.42,April,0.7,4,3,1,0
+477,Headphones,Fashion,28150.83,1,Credit Card,21/04/2024,28150.83,April,0.8,4,3,1,0
+478,Bag,Accessories,54402.28,3,Debit Card,22/04/2024,163206.84,April,0.7,4,3,1,0
+479,Shoes,Accessories,45475.69,1,COD,23/04/2024,45475.69,April,0.7,4,3,1,0
+480,Watch,Fashion,21728.75,4,COD,24/04/2024,86915,April,0.7,4,3,1,0
+481,Laptop,Fashion,70351.08,1,Easypaisa,25/04/2024,70351.08,April,0.8,4,3,1,0
+482,Shoes,Accessories,63895.37,1,JazzCash,26/04/2024,63895.37,April,0.7,4,3,1,0
+483,Bag,Electronics,52846.92,1,Debit Card,27/04/2024,52846.92,April,0.8,4,3,1,0
+484,Headphones,Accessories,68121.25,4,JazzCash,28/04/2024,272485,April,0.7,4,3,1,0
+485,Mobile,Fashion,69449.89,4,Easypaisa,29/04/2024,277799.56,April,0.7,4,3,1,0
+486,Bag,Electronics,56814.86,4,COD,30/04/2024,227259.44,April,0.7,4,,1,0
+487,Headphones,Electronics,67042.56,4,JazzCash,01/05/2024,268170.24,May,0.8,4,3,1,0
+488,Watch,Fashion,55948.98,3,JazzCash,02/05/2024,167846.94,May,0.7,,3,1,0
+489,Bag,Fashion,54571.19,3,COD,03/05/2024,163713.57,May,0.7,4,3,1,0
+490,Mobile,Fashion,49679.6,2,Debit Card,04/05/2024,99359.2,May,0.7,4,3,1,0
+491,Headphones,Accessories,60340.97,4,COD,05/05/2024,241363.88,May,0.7,4,3,1,0
+492,Headphones,Accessories,13109.11,3,JazzCash,06/05/2024,39327.33,May,0.7,4,3,1,0
+493,Headphones,Electronics,70529.23,7,Debit Card,07/05/2024,493704.61,May,0.7,4,3,1,0
+494,Watch,Fashion,69811.56,4,Debit Card,08/05/2024,279246.24,May,0.7,4,3,1,0
+495,Bag,Electronics,2825.16,2,COD,09/05/2024,5650.32,May,0.7,4,1,1,0
+496,Watch,Electronics,66152.43,2,JazzCash,10/05/2024,132304.86,May,0.65,4,1,1,0
+497,Laptop,Electronics,10745.15,2,Easypaisa,11/05/2024,21490.3,May,0.7,4,1,1,0
+498,Laptop,Electronics,27141.95,1,JazzCash,12/05/2024,27141.95,May,0.7,4,1,1,0
+499,Bag,Fashion,59608.91,3,Credit Card,13/05/2024,178826.73,May,0.8,4,1,1,0
+500,Watch,Electronics,13280.41,1,Easypaisa,14/05/2024,13280.41,May,0.65,4,1,1,0
+3,Shoes,Fashion,13274.17,2,JazzCash,03/01/2023,26548.34,January,0.1,1,2,1,0
+4,Bag,Electronics,15332.08,1,COD,04/01/2023,15332.08,January,0.1,1,2,1,0
+18,Headphones,Electronics,14085.56,2,Debit Card,18/01/2023,28171.12,January,0,1,2,1,0
+19,Laptop,Accessories,53657.14,4,Debit Card,19/01/2023,214628.56,January,0.1,1,2,1,0
+20,Watch,Fashion,74385.39,4,Credit Card,20/01/2023,297541.56,January,0,1,2,1,0
+21,Bag,Electronics,44762.65,4,COD,21/01/2023,179050.6,January,0,1,2,1,0
